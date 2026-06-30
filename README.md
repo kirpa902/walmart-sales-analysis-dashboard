@@ -2,11 +2,11 @@
 
 ## 📌 Project Overview
 
-This project analyzes Walmart sales data using **MySQL** for data analysis and **Microsoft Excel** for dashboard creation. The objective was to answer key business questions, generate actionable insights, and present the results through an interactive dashboard.
+This project analyzes Walmart sales data using **MySQL** for data analysis and **Microsoft Excel** for dashboard creation. The objective was to answer business questions, uncover meaningful insights, and present them through an interactive dashboard.
 
 ---
 
-## 🛠️ Tools Used
+## 🛠️ Tools & Technologies
 
 - MySQL
 - Microsoft Excel
@@ -27,8 +27,8 @@ This project analyzes Walmart sales data using **MySQL** for data analysis and *
 - Revenue by Branch
 - Profit by Product Line
 - Revenue by Customer Type
-- Revenue Contribution by Product Line
 - Revenue by Payment Method
+- Revenue Contribution by Product Line
 - Revenue & Average Rating by Product Line
 - Interactive Slicers
 
@@ -41,28 +41,34 @@ This project analyzes Walmart sales data using **MySQL** for data analysis and *
 - Which product line generated the highest profit?
 - Which payment method was used the most?
 - Which customer type generated more revenue?
-- Which product line contributed the highest share of revenue?
-- Which product line sold the most units?
-- Which product lines generated high revenue but received lower customer ratings?
+- Which product line contributed the highest share of total revenue?
+- Which product line sold the highest quantity?
+- Which product lines generated high revenue but relatively lower customer ratings?
 
 ---
 
 ## 📈 Key Insights
 
-- Revenue varies across branches and cities.
-- Certain product lines contribute a significantly larger share of total revenue.
-- Member and Normal customers display different purchasing behaviors.
-- Customer ratings highlight opportunities for improving customer satisfaction in high-selling product categories.
-- Payment method analysis provides insight into customer preferences.
+- Revenue varied across branches and cities.
+- Some product lines contributed a significantly larger share of total revenue.
+- Member customers generated higher overall revenue than Normal customers.
+- Customer ratings helped identify product lines with improvement opportunities.
+- Payment method analysis revealed customer purchasing preferences.
 
 ---
 
-## 📂 Repository Contents
+## 📂 Project Files
 
-- WalmartSalesData.csv
-- Walmart Dashboard.xlsx
-- Walmart_SQL_Queries.sql
-- Dashboard.png
+- `WalmartSalesData.csv`
+- `Walmart Dashboard.xlsx`
+- `Walmart_SQL_Queries.sql`
+- `Walmart_dashboard.png`
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](Walmart_dashboard.png)
 
 ---
 
@@ -72,12 +78,9 @@ This project analyzes Walmart sales data using **MySQL** for data analysis and *
 - Data Analysis
 - Business Intelligence
 - Data Visualization
-- Dashboard Design
-- Excel Reporting
-- KPI Development
+- Excel Dashboard Development
+- KPI Design
+- Interactive Reporting
 
 ---
-
-## 📷 Dashboard Preview
-
-![Dashboard](Dashboard.png)
+⭐ If you found this project interesting, feel free to explore the repository!
