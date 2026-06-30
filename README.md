@@ -68,7 +68,7 @@ This project analyzes Walmart sales data using **MySQL** for data analysis and *
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Walmart_dashboard.png)
+![Dashboard](Walmart_Dashboard.png)
 
 ---
 
